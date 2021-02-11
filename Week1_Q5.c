@@ -30,6 +30,10 @@
     case 'i':
         printf("%c is vowel",a);
         break;
+            
+    case 'o':
+        printf("%c is vowel",a);
+        break;
     case 'u':
         printf("%c is vowel",a);
         break;
